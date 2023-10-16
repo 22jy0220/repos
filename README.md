@@ -14,3 +14,6 @@ GitHubの練習用リポジトリ
 
 - aaaaa
 - bbbbb
+
+-test
+-test
