@@ -12,5 +12,5 @@ GitHubの練習用リポジトリ
 2. BBB
 3. CCC
 
-aaaaa
-bbbbb
+- aaaaa
+- bbbbb
